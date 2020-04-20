@@ -6,6 +6,15 @@ EME-UFSC group - Electromecanical Ventilator / Respirator
 Primeiros testes com Labview
 
 
+
+
+
+
+
+
+Git instrutions for code collaborators
+
+
 git clone https://github.com/ademarrohregger/EME-UFSC-Ventilator.git
 
 cd EME-UFSC-Ventilator
