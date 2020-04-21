@@ -9,7 +9,7 @@
 
 ### *First Labview Lab code test:*
 
-Last version: [2020-04-20 "First Lab Simulation"](https://github.com/ademarrohregger/EME-UFSC-Ventilator-Labview-Code/tree/master/Labview%20code "2020-04-20 First Lab Simulation") by Gabriel 
+Last version: [2020-04-20 "First Lab Simulation"](https://github.com/ademarrohregger/EME-UFSC-Ventilator/tree/master/Labview%20code "2020-04-20 First Lab Simulation") by Gabriel 
 
 ***
 
@@ -66,7 +66,7 @@ Chapter 3. Basic Principles of Ventilator Design - Mechanical Ventilation Book p
 ***
 
 
-[Another related documents](https://github.com/ademarrohregger/EME-UFSC-Ventilator-Labview-Code/tree/master/documentacao "Another related documents")
+[Another related documents](https://github.com/ademarrohregger/EME-UFSC-Ventilator/tree/master/documentacao "Another related documents")
 
 ### Git instrutions for code collaborators
 
