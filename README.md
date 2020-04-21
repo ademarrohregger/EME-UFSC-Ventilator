@@ -9,7 +9,7 @@
 
 ### *First Labview Lab code test:*
 
-Last version: [2020-04-20 "First Lab Simulation"](https://github.com/ademarrohregger/EME-UFSC-Ventilator-Labview-Code/tree/master/Labview%20code 2020-04-20 "First Lab Simulation") by Gabriel 
+Last version: [2020-04-20 "First Lab Simulation"](https://github.com/ademarrohregger/EME-UFSC-Ventilator-Labview-Code/tree/master/Labview%20code "2020-04-20 First Lab Simulation") by Gabriel 
 
 ***
 
