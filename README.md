@@ -4,11 +4,10 @@
 
 ***
 
-## Electromecanical Ventilator / Respirator  Labview Code
-
+## Electromecanical Ventilator / Respirator 
 ***
 
-### *First Labview Lab test:*
+### *First Labview Lab code test:*
 
 Last version: 2020-04-20 "First Lab Simulation" by Gabriel 
 
