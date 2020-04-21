@@ -17,8 +17,8 @@
 #### Reference Devices
 
 + [Vent-Logos page](https://www.ventlogos.com.br/ "Vent-logos Site")
-- [Vent-Logos facebook](https://www.facebook.com/ventlogos.medicohospitalar/ "Vent-logos Facebook")
-- [Vent-Logos instagram](https://www.instagram.com/p/BvUZGvBAvHp/ "Vent-logos Instagram")
+    - [Vent-Logos facebook](https://www.facebook.com/ventlogos.medicohospitalar/ "Vent-logos Facebook")
+    - [Vent-Logos instagram](https://www.instagram.com/p/BvUZGvBAvHp/ "Vent-logos Instagram")
 
 + [Maquet Servo-I](https://www.medonegroup.com/pdf/manuals/userManuals/Maquet-Servo-i-Operators-Manual.pdf "Maquet Servo-I")
 
