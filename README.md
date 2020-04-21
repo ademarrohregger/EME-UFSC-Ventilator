@@ -36,7 +36,9 @@ Last version: 2020-04-20 "First Lab Simulation" by Gabriel
 
 + [Lista de compras sensores Pressão/Vazão - Doc](https://docs.google.com/document/d/1pr2BwADfJgNikYR5n7vELydSTk42BicopfO2KNFfc-w/edit "Lista de compras sensores Pressão/Vazão - Doc")
 
-+ [Suggested Proportional solenoid valve](http://www.isma.pt/site/assets/files/2388/ode-3-21a2kcv25-081.pdf "Suggested Proportional solenoid valve")
++ [Suggested Proportional solenoid valve](https://docs.google.com/document/d/1uGpP1wrJGgZ4F5YaqlX9M1xrOApTgXwWIRoCqPB2iUI/edit#heading=h.x6bo5j7v9pcu "Suggested Proportional solenoid valve")
+
++ [Opções de circuitos pneumáticos](http://www.isma.pt/site/assets/files/2388/ode-3-21a2kcv25-081.pdf "Opções de circuitos pneumáticos")
 
 + [NI SCXI Chassis User Manual](https://www.ni.com/pdf/manuals/374423l.pdf "NI SCXI Chassis User Manual")
 
