@@ -65,6 +65,9 @@ Chapter 3. Basic Principles of Ventilator Design - Mechanical Ventilation Book p
 
 ***
 
+
+[Another related documents](https://github.com/ademarrohregger/EME-UFSC-Ventilator-Labview-Code/tree/master/documentacao "Another related documents")
+
 ### Git instrutions for code collaborators
 
 
