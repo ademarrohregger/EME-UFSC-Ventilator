@@ -1,9 +1,9 @@
 # EME-UFSC-Ventilator\s
-**EME-UFSC group - Electromecanical Ventilator / Respirator  Labview Code**\s
+**EME-UFSC group - Electromecanical Ventilator / Respirator  Labview Code**
 
 ***
 
-##"First Labview Lab test:"
+## "First Labview Lab test:"
 
 ***
 
