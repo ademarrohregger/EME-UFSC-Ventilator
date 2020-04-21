@@ -7,7 +7,17 @@
 
 ***
 
-This is an [example link](http://example.com/ "With a Title").
+
+### "Reference Links"
+
+#### Reference devices
+
+[Vent-Logos page](https://www.ventlogos.com.br/ "Vent-logos")
+[Vent-Logos facebook](https://www.facebook.com/ventlogos.medicohospitalar/ "Vent-logos Facebook").
+
+
+[Maquet Servo-I](https://www.medonegroup.com/pdf/manuals/userManuals/Maquet-Servo-i-Operators-Manual.pdf "Maquet Servo-I")
+
 
 ***
 
