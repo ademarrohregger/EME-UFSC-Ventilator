@@ -33,7 +33,7 @@
 
 + [Lista de compras sensores Pressão/Vazão - Doc](https://docs.google.com/document/d/1pr2BwADfJgNikYR5n7vELydSTk42BicopfO2KNFfc-w/edit "Lista de compras sensores Pressão/Vazão - Doc")
 
-+ [Vent-Logos page](https://www.ventlogos.com.br/ "Vent-logos Site")
+
 
 #### Literature / General Ventilators / Respirators information:
 
@@ -42,6 +42,11 @@ Chapter 3. Basic Principles of Ventilator Design - Mechanical Ventilation Book p
 ](https://accessmedicine.mhmedical.com/content.aspx?bookid=520&sectionid=41692239 "Chapter 3. Basic Principles of Ventilator Design - Mechanical Ventilation Book page
 ")
 
++ [Design and Prototyping of a Low-cost Portable Mechanical Ventilator - Article](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf "Design and Prototyping of a Low-cost Portable Mechanical Ventilator - Article")
+
++ [Medical Ventilator - Basic presentation](http://ocw.utm.my/pluginfile.php/1458/mod_resource/content/0/Notes/OCW_ventilator.pdf "Medical Ventilator - Basic presentation")
+
++ [Ventilator/Respirator Hardware andSoftware Design Specification - NXP / Freescale](https://www.nxp.com/docs/en/application-note/DRM127.pdf "Ventilator/Respirator Hardware andSoftware Design Specification - NXP / Freescale")
 
 
 ***
