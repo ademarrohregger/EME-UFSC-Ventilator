@@ -1,4 +1,4 @@
-# EME-UFSC-Ventilator \s
+# EME-UFSC-Ventilator 
 **[EME-UFSC group site](https://eme.ufsc.br/ "EME-UFSC group Site")**
 
 ***
@@ -8,6 +8,8 @@
 ***
 
 ### *First Labview Lab test:*
+
+Last version: 2020-04-20 "First Lab Simulation" by Gabriel 
 
 ***
 
