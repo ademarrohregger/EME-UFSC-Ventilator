@@ -16,14 +16,14 @@
 
 #### Reference Devices
 
-[Vent-Logos page](https://www.ventlogos.com.br/ "Vent-logos Site")
-[Vent-Logos facebook](https://www.facebook.com/ventlogos.medicohospitalar/ "Vent-logos Facebook")
-[Vent-Logos instagram](https://www.instagram.com/p/BvUZGvBAvHp/ "Vent-logos Instagram")
++ [Vent-Logos page](https://www.ventlogos.com.br/ "Vent-logos Site")
+- [Vent-Logos facebook](https://www.facebook.com/ventlogos.medicohospitalar/ "Vent-logos Facebook")
+- [Vent-Logos instagram](https://www.instagram.com/p/BvUZGvBAvHp/ "Vent-logos Instagram")
 
-[Maquet Servo-I](https://www.medonegroup.com/pdf/manuals/userManuals/Maquet-Servo-i-Operators-Manual.pdf "Maquet Servo-I")
++ [Maquet Servo-I](https://www.medonegroup.com/pdf/manuals/userManuals/Maquet-Servo-i-Operators-Manual.pdf "Maquet Servo-I")
 
 
-#### Ventilator / Respirator General Reference documentation:
+#### Ventilators / Respirators EME:
 
 + [Sensores para monitoramento da operação do Ventilador Mecânico - Doc ](https://docs.google.com/document/d/1qkutcPb6ZeN_u1Jc0sKikT_xsM87fGYkimWtWgSglXI/edit "Sensores para monitoramento da operação do Ventilador Mecânico - Doc ")
 
@@ -32,6 +32,15 @@
 + [Sistema de ventilação - EME UFSC - v3 - Doc](https://docs.google.com/document/d/1pF5CpEk4YVl9e7Ml7EDjUtZp_q3aDyRrqfLyKgkWQPA/edit# "Sistema de ventilação - EME UFSC - v3 - Doc")
 
 + [Lista de compras sensores Pressão/Vazão - Doc](https://docs.google.com/document/d/1pr2BwADfJgNikYR5n7vELydSTk42BicopfO2KNFfc-w/edit "Lista de compras sensores Pressão/Vazão - Doc")
+
++ [Vent-Logos page](https://www.ventlogos.com.br/ "Vent-logos Site")
+
+#### Literature / General Ventilators / Respirators information:
+
++ [
+Chapter 3. Basic Principles of Ventilator Design - Mechanical Ventilation Book page
+](https://accessmedicine.mhmedical.com/content.aspx?bookid=520&sectionid=41692239 "Chapter 3. Basic Principles of Ventilator Design - Mechanical Ventilation Book page
+")
 
 
 
