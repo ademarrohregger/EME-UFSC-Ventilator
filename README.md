@@ -3,7 +3,7 @@
 
 ***
 
-## Electromecanical Ventilator / Respirator  Labview Code**  
+## Electromecanical Ventilator / Respirator  Labview Code
 
 ***
 
