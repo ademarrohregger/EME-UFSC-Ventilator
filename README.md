@@ -1,4 +1,4 @@
-# EME-UFSC-Ventilator\s
+# EME-UFSC-Ventilator \s
 **[EME-UFSC group site](https://eme.ufsc.br/ "EME-UFSC group Site")**
 
 ***
