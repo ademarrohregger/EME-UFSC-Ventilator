@@ -36,6 +36,14 @@ Last version: 2020-04-20 "First Lab Simulation" by Gabriel
 
 + [Lista de compras sensores Pressão/Vazão - Doc](https://docs.google.com/document/d/1pr2BwADfJgNikYR5n7vELydSTk42BicopfO2KNFfc-w/edit "Lista de compras sensores Pressão/Vazão - Doc")
 
++ [Suggested Proportional solenoid valve](http://www.isma.pt/site/assets/files/2388/ode-3-21a2kcv25-081.pdf "Suggested Proportional solenoid valve")
+
++ [NI SCXI Chassis User Manual](https://www.ni.com/pdf/manuals/374423l.pdf "NI SCXI Chassis User Manual")
+
++ [NI SCXI 1102/B/C Module User Manual](https://www.ni.com/pdf/manuals/374423l.pdf "NI SCXI 1102/B/C Module User Manual")
+
++ [NI SCXI 1303 Terminal block](http://www.ni.com/pdf/manuals/321923b.pdf "NI NI SCXI 1303 Terminal block")
+
 
 
 #### Literature / General Ventilators / Respirators information:
