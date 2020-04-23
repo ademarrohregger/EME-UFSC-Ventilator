@@ -47,6 +47,17 @@ Last version: [2020-04-20 "First Lab Simulation"](https://github.com/ademarrohre
 
 + [NI SCXI 1303 Terminal block](http://www.ni.com/pdf/manuals/321923b.pdf "NI NI SCXI 1303 Terminal block")
 
++ [DAQ LASHIP - USB-6211 Specifications](https://www.ni.com/pdf/manuals/375195d.pdf "DAQ LASHIP - USB-6211 Specifications")
+	- [DAQ LASHIP - MULTIFUNCTION I/O DEVICE MANUAL](https://www.ni.com/documentation/en/multifunction-io-device/latest/usb-6211/pinout/ "DAQ LASHIP - MULTIFUNCTION I/O DEVICE MANUAL")
+
+	- [DAQ LASHIP - Code for downloads-USB 6211L](https://forums.ni.com/t5/Example-Code/Code-for-downloads-USB-6211/ta-p/3984357?profile.language=pt-br "DAQ LASHIP - Code for downloads-USB 6211")
+
+	- [DAQ LASHIP - Digital Input and Output with NI USB-6211](https://youtu.be/jiMXAcXuktM "DAQ LASHIP - Digital Input and Output with NI USB-6211")
+
+
+	- [DAQ LASHIP - Triggered Analog Input and Logging in LabVIEW with NI USB-6211](https://youtu.be/0bUsuPPiBug "DAQ LASHIP - Triggered Analog Input and Logging in LabVIEW with NI USB-6211")
+
+
 
 
 #### Literature / General Ventilators / Respirators information:
