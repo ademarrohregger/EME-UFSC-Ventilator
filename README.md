@@ -15,7 +15,7 @@
 
 + [2020-04-20 "First Lab Simulation"](https://github.com/ademarrohregger/EME-UFSC-Ventilator/tree/master/Labview%20code/20200423 "2020-04-20 First Lab Simulation") by Gabriel 
 
-ressure controlled Ventilator V0.1 - Lab Simulation
+
 
 ***
 
