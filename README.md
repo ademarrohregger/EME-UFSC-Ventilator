@@ -9,6 +9,10 @@
 
 ### *Labview Lab code test:*
 
++ [2020-04-24 "Pressure controlled Ventilator V0.2 - Lab Simulation"](https://github.com/ademarrohregger/EME-UFSC-Ventilator/tree/master/Labview%20code/20200424 "2020-04-24 ressure controlled Ventilator V0.2 - Lab Simulation") by Gabriel 
+
+
+
 + [2020-04-23 "Pressure controlled Ventilator V0.1 - Lab Simulation"](https://github.com/ademarrohregger/EME-UFSC-Ventilator/tree/master/Labview%20code/20200423 "2020-04-23 ressure controlled Ventilator V0.1 - Lab Simulation") by Gabriel 
 
 
@@ -107,4 +111,10 @@ pull request to branch:
 git request-pull v1.0 https://github.com/ademarrohregger/EME-UFSC-Ventilator.git master
 
 
+### Git instructions for owner
 
+git add .
+
+git commit -m "commit comment"
+
+git push -u origin master
