@@ -36,6 +36,14 @@
 
 + [Frank5010 page](https://www.frank5010.com.br/ "Frank5010 page")
 
++ [OVSI Open Ventilator System Initiative](https://ovsi.org/ "OVSI Open Ventilator System Initiative")
+
++ [JamVent Imperial College emergency ventilator](https://www.imperial-consultants.co.uk/areasofexpertise/emergency-ventilator/ "emergency ventilator")
+
+	- [JamVent Imperial College Design Document](http://www.imperial-consultants.co.uk/wp-content/uploads/2020/04/DesignDocument_5-0-1.pdf "JamVent Imperial College Design Document")
+
+	- [JamVent Imperial College Tests](http://www.imperial-consultants.co.uk/wp-content/uploads/2020/03/JamVent_Performance-Evidence-Document.pdf "JamVent Imperial College Tests")
+
 
 #### Ventilators / Respirators EME:
 
