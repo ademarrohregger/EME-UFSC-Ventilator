@@ -32,8 +32,6 @@
 #### COVID19 information
 
 
-+ [Infection Prevention and Control guidance for Long-Term Care Facilities in the context of COVID-19](https://github.com/ademarrohregger/EME-UFSC-Ventilator/tree/master/Labview%20code/20200420 "2Infection Prevention and Control guidance for Long-Term Care Facilities in the context of COVID-19
-
 
 https://www.who.int/ 
 
