@@ -9,6 +9,8 @@
 
 ### *Labview Lab code test:*
 
++ [2020-04-25 "Acquisition LASHIP VI - Lab Simulation"](https://github.com/ademarrohregger/EME-UFSC-Ventilator/tree/master/Labview%20code/20200425 "2020-04-25 "Acquisition LASHIP VI - Lab Simulation") by Gregoria
+
 + [2020-04-24 "Pressure controlled Ventilator V0.2 - Lab Simulation"](https://github.com/ademarrohregger/EME-UFSC-Ventilator/tree/master/Labview%20code/20200424 "2020-04-24 ressure controlled Ventilator V0.2 - Lab Simulation") by Gabriel 
 
 
@@ -25,6 +27,16 @@
 
 
 ### *Reference Links*
+
+
+#### COVID19 information
+
+
++ [Infection Prevention and Control guidance for Long-Term Care Facilities in the context of COVID-19](https://github.com/ademarrohregger/EME-UFSC-Ventilator/tree/master/Labview%20code/20200420 "2Infection Prevention and Control guidance for Long-Term Care Facilities in the context of COVID-19
+
+
+https://www.who.int/ 
+
 
 #### Reference Devices
 
