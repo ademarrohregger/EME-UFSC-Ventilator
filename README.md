@@ -36,6 +36,12 @@ https://www.who.int/
 
 #### Reference Devices
 
+
++ [VENTILATORS COLLABORATION NETWORK](https://soptechint.com/ventilators "VENTILATORS COLLABORATION NETWORK")
+
+
++ [Open Ventilator System Initiative](https://ovsi.org/ "Open Ventilator System Initiative")
+
 + [Weg ventilator](http://www.leistungbrasil.com/ventilador-portatil-pr4d-plus.php "Weg ventilator")
 
 
@@ -56,7 +62,13 @@ https://www.who.int/
 	- [JamVent Imperial College Tests](http://www.imperial-consultants.co.uk/wp-content/uploads/2020/03/JamVent_Performance-Evidence-Document.pdf "JamVent Imperial College Tests")
 
 
+
+
+
+
 #### Ventilators / Respirators EME:
+
++ [Comparação requisitos Ministério da Saúde - V2.0](https://docs.google.com/document/d/15opxbpu8Gg25M0ib3-odYhEGOshvcfH7XZMfQxlT878/edit?usp=sharing "SComparação requisitos Ministério da Saúde - V2.0")
 
 + [SFM3019/3020 Sensirion Sensors](https://www.sensirion.com/en/flow-sensors/sfm3xxx-sensor-platform/ "SFM3019/3020 Sensirion Sensors")
 
