@@ -9,15 +9,13 @@
 
 ### *Labview Lab code test:*
 
++ [2020-04-27 "Pressure controlled Ventilator V0.3 - Lab Simulation w site simulation and DAO [0-1V]"](https://github.com/ademarrohregger/EME-UFSC-Ventilator/tree/master/Labview%20code/20200427 "Pressure controlled Ventilator V0.3 - Lab Simulation w site simulation and DAO [0-1V]") by Gabriel
+
 + [2020-04-25 "Acquisition LASHIP VI - Lab Simulation"](https://github.com/ademarrohregger/EME-UFSC-Ventilator/tree/master/Labview%20code/20200425 "2020-04-25 Acquisition LASHIP VI - Lab Simulation") by Gregori
 
 + [2020-04-24 "Pressure controlled Ventilator V0.2 - Lab Simulation"](https://github.com/ademarrohregger/EME-UFSC-Ventilator/tree/master/Labview%20code/20200424 "2020-04-24 ressure controlled Ventilator V0.2 - Lab Simulation") by Gabriel 
 
-
-
 + [2020-04-23 "Pressure controlled Ventilator V0.1 - Lab Simulation"](https://github.com/ademarrohregger/EME-UFSC-Ventilator/tree/master/Labview%20code/20200423 "2020-04-23 ressure controlled Ventilator V0.1 - Lab Simulation") by Gabriel 
-
-
 
 + [2020-04-20 "First Lab Simulation"](https://github.com/ademarrohregger/EME-UFSC-Ventilator/tree/master/Labview%20code/20200420 "2020-04-20 First Lab Simulation") by Gabriel 
 
@@ -57,6 +55,9 @@ https://www.who.int/
 
 #### Ventilators / Respirators EME:
 
++ [SFM3019/3020 Sensirion Sensors](https://www.sensirion.com/en/flow-sensors/sfm3xxx-sensor-platform/ "SFM3019/3020 Sensirion Sensors")
+
+
 + [Sensores para monitoramento da operação do Ventilador Mecânico - Doc ](https://docs.google.com/document/d/1qkutcPb6ZeN_u1Jc0sKikT_xsM87fGYkimWtWgSglXI/edit "Sensores para monitoramento da operação do Ventilador Mecânico - Doc ")
 
 + [Lista de compras - Xls](https://docs.google.com/spreadsheets/d/1tPckTf7UcDMDv292cV6oWED-GQv6acorzieaLBDWgY0/edit#gid=340717770 "Lista de compras xls")
@@ -76,12 +77,12 @@ https://www.who.int/
 + [NI SCXI 1303 Terminal block](http://www.ni.com/pdf/manuals/321923b.pdf "NI NI SCXI 1303 Terminal block")
 
 + [DAQ LASHIP - USB-6211 Specifications](https://www.ni.com/pdf/manuals/375195d.pdf "DAQ LASHIP - USB-6211 Specifications")
+
 	- [DAQ LASHIP - MULTIFUNCTION I/O DEVICE MANUAL](https://www.ni.com/documentation/en/multifunction-io-device/latest/usb-6211/pinout/ "DAQ LASHIP - MULTIFUNCTION I/O DEVICE MANUAL")
 
 	- [DAQ LASHIP - Code for downloads-USB 6211L](https://forums.ni.com/t5/Example-Code/Code-for-downloads-USB-6211/ta-p/3984357?profile.language=pt-br "DAQ LASHIP - Code for downloads-USB 6211")
 
 	- [DAQ LASHIP - Digital Input and Output with NI USB-6211](https://youtu.be/jiMXAcXuktM "DAQ LASHIP - Digital Input and Output with NI USB-6211")
-
 
 	- [DAQ LASHIP - Triggered Analog Input and Logging in LabVIEW with NI USB-6211](https://youtu.be/0bUsuPPiBug "DAQ LASHIP - Triggered Analog Input and Logging in LabVIEW with NI USB-6211")
 
@@ -90,9 +91,7 @@ https://www.who.int/
 
 #### Literature / General Ventilators / Respirators information:
 
-+ [
-Chapter 3. Basic Principles of Ventilator Design - Mechanical Ventilation Book page
-](https://accessmedicine.mhmedical.com/content.aspx?bookid=520&sectionid=41692239 "Chapter 3. Basic Principles of Ventilator Design - Mechanical Ventilation Book page
++ [Chapter 3. Basic Principles of Ventilator Design - Mechanical Ventilation Book page](https://accessmedicine.mhmedical.com/content.aspx?bookid=520&sectionid=41692239 "Chapter 3. Basic Principles of Ventilator Design - Mechanical Ventilation Book page
 ")
 
 + [Design and Prototyping of a Low-cost Portable Mechanical Ventilator - Article](https://web.mit.edu/2.75/projects/DMD_2010_Al_Husseini.pdf "Design and Prototyping of a Low-cost Portable Mechanical Ventilator - Article")
