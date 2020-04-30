@@ -36,6 +36,9 @@ https://www.who.int/
 
 #### Reference Devices
 
++ [Weg ventilator](http://www.leistungbrasil.com/ventilador-portatil-pr4d-plus.php "Weg ventilator")
+
+
 + [Vent-Logos page](https://www.ventlogos.com.br/ "Vent-logos Site")
     - [Vent-Logos facebook](https://www.facebook.com/ventlogos.medicohospitalar/ "Vent-logos Facebook")
     - [Vent-Logos instagram](https://www.instagram.com/p/BvUZGvBAvHp/ "Vent-logos Instagram")
